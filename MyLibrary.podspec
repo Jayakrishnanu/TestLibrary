@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "MyLibrary"
+  spec.name         = "TestLibrary"
   spec.version      = "0.1.1"
   spec.summary      = "Learning to write a reusable framework."
 
